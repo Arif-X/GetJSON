@@ -1,0 +1,25 @@
+.card {
+	height: 95%;
+}
+
+.card img {			
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	width: 50% !important;
+}
+
+.card-title h6 {
+	text-align: right;
+	vertical-align: center;
+}
+
+.card-text p {
+	font-size: 15px;
+	text-align: justify;
+}
+
+.width-100 {
+	width: 100% !important;
+}
